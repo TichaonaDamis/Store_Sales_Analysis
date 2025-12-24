@@ -7,22 +7,22 @@ Store Performance & Customer Insights Analysis
 
 
 Product & Department Performance
-
-  Product: Bananas – Most frequently purchased item, often first in cart
-
-  Top Aisle: Fresh fruits
-
-  Top Department: Produce (highest order volumes)
+  
+    Product: Bananas – Most frequently purchased item, often first in cart
+  
+    Top Aisle: Fresh fruits
+  
+    Top Department: Produce (highest order volumes)
 
   
 
 Key Department-Aisle Combinations:
 
-  Produce - Fresh Fruits
-  
-  Produce - Fresh Vegetables
-  
-  Produce - Packaged Vegetables/Fruits
+    Produce - Fresh Fruits
+    
+    Produce - Fresh Vegetables
+    
+    Produce - Packaged Vegetables/Fruits
 
 
 
