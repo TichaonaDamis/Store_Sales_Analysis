@@ -27,6 +27,7 @@ Key Department-Aisle Combinations:
 
 
 Customer Behavior Patterns
+
   1. High Reorder Items: Purified water, whole milk, omega 3 milk (indicating strong loyalty)
   
   2. Peak Shopping Hours: 8 AM - 8 PM (optimal for promotions/delivery)
@@ -39,6 +40,7 @@ Customer Behavior Patterns
 📊 Inventory & Profitability Insights
 
 Supply Chain Priorities
+
     High-Demand Items: Bananas & fresh produce require consistent stock
     
     Critical Need: Efficient supply chain management to prevent stockouts
@@ -75,6 +77,7 @@ Strategic Applications
 🚀 Strategic Recommendations
 
 Immediate Actions
+
     1. Stock Optimization: Prioritize bananas and fresh produce inventory
     
     2. Peak Hour Promotions: Concentrate marketing efforts 8 AM - 8 PM
@@ -83,6 +86,7 @@ Immediate Actions
 
 
 Customer Retention Focus
+
     1. High-Value Segments: Develop loyalty programs for Champions & Loyal Customers
     
     2. At-Risk Recovery: Implement win-back campaigns for declining segments
@@ -91,6 +95,7 @@ Customer Retention Focus
     
 
 Merchandising Enhancements
+
     1. Cross-Selling: Pair frequently bought together items
     
     2. Strategic Placement: Position high-margin items alongside traffic drivers
@@ -100,6 +105,7 @@ Merchandising Enhancements
 
 
 📈 Key Performance Indicators to Monitor
+
     Department: Produce category sales growth
     
     Customer: RFM segment migration patterns
