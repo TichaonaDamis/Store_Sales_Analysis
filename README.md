@@ -28,13 +28,13 @@ Key Department-Aisle Combinations:
 
 Customer Behavior Patterns
 
-  1. High Reorder Items: Purified water, whole milk, omega 3 milk (indicating strong loyalty)
-  
-  2. Peak Shopping Hours: 8 AM - 8 PM (optimal for promotions/delivery)
-  
-  3. Peak Shopping Days: Sunday & Monday (weekly restocking patterns)
-  
-  4. Average Order Frequency: Every 15.45 days (predictive benchmark)
+    1. High Reorder Items: Purified water, whole milk, omega 3 milk (indicating strong loyalty)
+    
+    2. Peak Shopping Hours: 8 AM - 8 PM (optimal for promotions/delivery)
+    
+    3. Peak Shopping Days: Sunday & Monday (weekly restocking patterns)
+    
+    4. Average Order Frequency: Every 15.45 days (predictive benchmark)
 
 
 📊 Inventory & Profitability Insights
@@ -56,6 +56,7 @@ Supply Chain Priorities
 🛒 Basket Analysis & Merchandising Opportunities
 
 Shopping Journey Patterns
+
     First Items Added: Bananas (cart anchors)
     
     Strategy: Use in promotional bundles, cross-selling initiatives
@@ -66,6 +67,7 @@ Shopping Journey Patterns
 
 
 Strategic Applications
+
     1. Product Positioning: Leverage high-impact items to drive traffic
     
     2. Promotional Design: Bundle complementary products based on cart patterns
